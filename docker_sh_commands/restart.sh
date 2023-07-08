@@ -1,0 +1,1 @@
+sh docker_sh_commands/stop.sh && sh docker_sh_commands/build.sh && sh docker_sh_commands/run.sh

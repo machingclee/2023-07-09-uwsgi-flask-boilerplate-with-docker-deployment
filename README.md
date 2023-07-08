@@ -1,1 +1,2 @@
-# 2023-07-09-uwsgi-flask-boilerplate-with-docker-deployment
+# wb-backend-python
+Extract python related logics into a single server
